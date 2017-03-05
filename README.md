@@ -1,0 +1,2 @@
+# AspNetCore
+Explore AspNetCore fundamentals
