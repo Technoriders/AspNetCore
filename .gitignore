@@ -1,0 +1,5 @@
+*.dg
+.vs/config/applicationhost.config
+Demo/obj/*
+Demo/bin/*
+Demo/project.lock.json
